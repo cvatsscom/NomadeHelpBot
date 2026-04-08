@@ -23,8 +23,8 @@ OWNER_ID=
 BOT_USERNAME=NomadeHelpBot
 
 # Links & Visuals
-SUPPORT_GROUP=https://t.me/LearningBotsCommunity
-UPDATE_CHANNEL=https://t.me/LearningBotsOfficial
-START_IMAGE=https://files.catbox.moe/j2yhce.jpg
+SUPPORT_GROUP=https://t.me/iwantandroid 
+UPDATE_CHANNEL=https://t.me/iwantandroid
+
 
 
